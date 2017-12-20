@@ -11,4 +11,9 @@
 
 ![](screenshot1.png)
 
+### 2. window运行结果
+
+切换到win 10系统
+
+运行结果如下图
 
